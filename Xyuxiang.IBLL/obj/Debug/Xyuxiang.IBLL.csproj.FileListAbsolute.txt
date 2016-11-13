@@ -1,0 +1,4 @@
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.pdb

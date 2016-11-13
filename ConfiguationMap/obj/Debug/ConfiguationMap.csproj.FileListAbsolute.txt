@@ -1,0 +1,10 @@
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\ConfiguationMap.dll
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\ConfiguationMap.pdb
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\StructureMap.dll
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\Xyuxiang.BLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\Xyuxiang.IBLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\Xyuxiang.BLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\Xyuxiang.IBLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.csprojResolveAssemblyReference.cache
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.dll
+E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.pdb

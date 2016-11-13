@@ -1,0 +1,12 @@
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.WCF.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.WCF.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\ConfiguationMap.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\StructureMap.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.BLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.IBLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\ConfiguationMap.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.BLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.IBLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.csprojResolveAssemblyReference.cache
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.pdb

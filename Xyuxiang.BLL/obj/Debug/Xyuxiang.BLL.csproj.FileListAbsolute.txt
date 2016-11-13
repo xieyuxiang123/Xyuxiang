@@ -1,0 +1,7 @@
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\bin\Debug\Xyuxiang.BLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\bin\Debug\Xyuxiang.BLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\bin\Debug\Xyuxiang.IBLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\bin\Debug\Xyuxiang.IBLL.pdb
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\obj\Debug\Xyuxiang.BLL.csprojResolveAssemblyReference.cache
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\obj\Debug\Xyuxiang.BLL.dll
+E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.BLL\obj\Debug\Xyuxiang.BLL.pdb
