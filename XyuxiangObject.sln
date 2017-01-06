@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyuxiang.WCF", "Xyuxiang.WC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfiguationMap", "ConfiguationMap\ConfiguationMap.csproj", "{A62B0FEB-ADF6-4733-A253-9CF5687FBA04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyuxiang.ConsoleApplication", "Xyuxiang.ConsoleApplication\Xyuxiang.ConsoleApplication.csproj", "{43160BF8-9ACD-46F1-9E25-B01AC21784B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTreeTest", "C:\Users\Administrator\Desktop\LambdaTreeTest\LambdaTreeTest\LambdaTreeTest.csproj", "{DCE305F3-D966-4462-8C2E-3E845FD62C24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,14 @@ Global
 		{A62B0FEB-ADF6-4733-A253-9CF5687FBA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62B0FEB-ADF6-4733-A253-9CF5687FBA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62B0FEB-ADF6-4733-A253-9CF5687FBA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43160BF8-9ACD-46F1-9E25-B01AC21784B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43160BF8-9ACD-46F1-9E25-B01AC21784B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43160BF8-9ACD-46F1-9E25-B01AC21784B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43160BF8-9ACD-46F1-9E25-B01AC21784B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE305F3-D966-4462-8C2E-3E845FD62C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE305F3-D966-4462-8C2E-3E845FD62C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE305F3-D966-4462-8C2E-3E845FD62C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE305F3-D966-4462-8C2E-3E845FD62C24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\bin\Debug\Xyuxiang.ConsoleApplication.exe.config
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\obj\Debug\Xyuxiang.ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\bin\Debug\Xyuxiang.ConsoleApplication.exe
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\bin\Debug\Xyuxiang.ConsoleApplication.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\obj\Debug\Xyuxiang.ConsoleApplication.exe
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.ConsoleApplication\obj\Debug\Xyuxiang.ConsoleApplication.pdb

@@ -2,3 +2,7 @@ E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.d
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.pdb
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.dll
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.IBLL\bin\Debug\Xyuxiang.IBLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.IBLL\obj\Debug\Xyuxiang.IBLL.pdb

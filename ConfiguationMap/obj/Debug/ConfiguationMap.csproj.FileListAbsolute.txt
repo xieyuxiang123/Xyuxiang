@@ -8,3 +8,13 @@ E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\bin\Debug\Xyuxiang.IBLL
 E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.csprojResolveAssemblyReference.cache
 E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.dll
 E:\xx等2个文件\Object\XyuxiangObject\ConfiguationMap\obj\Debug\ConfiguationMap.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\ConfiguationMap.dll
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\ConfiguationMap.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\StructureMap.dll
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\Xyuxiang.BLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\Xyuxiang.IBLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\Xyuxiang.BLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\bin\Debug\Xyuxiang.IBLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\obj\Debug\ConfiguationMap.csprojResolveAssemblyReference.cache
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\obj\Debug\ConfiguationMap.dll
+E:\000.Yuxiang.Xie\Xyuxiang\ConfiguationMap\obj\Debug\ConfiguationMap.pdb

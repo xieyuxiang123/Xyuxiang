@@ -10,3 +10,15 @@ E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\bin\Xyuxiang.IBLL.pdb
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.csprojResolveAssemblyReference.cache
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.dll
 E:\xx等2个文件\Object\XyuxiangObject\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.WCF.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.WCF.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\ConfiguationMap.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\StructureMap.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.BLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.IBLL.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\ConfiguationMap.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.BLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\bin\Xyuxiang.IBLL.pdb
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.csprojResolveAssemblyReference.cache
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.dll
+E:\000.Yuxiang.Xie\Xyuxiang\Xyuxiang.WCF\obj\Debug\Xyuxiang.WCF.pdb
